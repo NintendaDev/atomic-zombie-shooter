@@ -1,0 +1,20 @@
+# Atomic Zombie Shooter Sample
+
+![============ GIF DEMONSTRATION ============](images/demo.gif)
+
+This is a small sample of a zombie shooter game, created based on an atomic framework
+
+The following mechanics have been implemented:
+- Character movement;
+- Shooting a pistol at zombie enemies;
+- Health and weapon magazine;
+- Picking up medkits and ammunition;
+- Basic AI for zombie enemies (player pursuit and attack)
+
+Dependencies:
+- [Atomic Framework](https://github.com/StarKRE22/Atomic) (free)
+- UniTask (free)
+- Dotween (free)
+
+## What is Atomic?
+Atomic Framework is a solution designed for developing games in C# and Unity. The main idea of framework is reduce code complexity by separating state and behaviour of game code. To achieve the flexibility and reusability of game mechanics, it is necessary to look towards procedural and reactive programming instead of OOP.
