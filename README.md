@@ -2,7 +2,7 @@
 
 ![============ GIF DEMONSTRATION ============](images/demo.gif)
 
-This is a sample of a zombie shooter game, created based on an Atomic Framework.
+This is a sample of a zombie shooter game, created based on an [Atomic Framework](https://github.com/StarKRE22/Atomic).
 
 ### What is Atomic Framework?
 Atomic Framework is a solution designed for developing games in C# and Unity. The main idea of framework is reduce code complexity by separating state and behaviour of game code. To achieve the flexibility and reusability of game mechanics, it is necessary to look towards procedural and reactive programming instead of OOP.
