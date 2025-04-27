@@ -24,4 +24,4 @@ The sample is based on the principle of modularity. Independent modules are loca
 - Dotween (free)
 - Odin Inspector / Validator (paid)
 
-
+UI is implemented using the MVP Passive View pattern.
